@@ -30,7 +30,7 @@ p{
 	margin-right: auto;
 	margin-bottom: 15px;
 	font-family: Lucida Console;
-	overflow: auto;
+	overflow: hidden;
 }
 
 .chickenbox{
